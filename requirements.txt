@@ -1,0 +1,9 @@
+jupyter
+xgboost
+scipy
+scikit-learn
+pandas
+seaborn
+hyperopt
+sqlalchemy
+mysqlclient
